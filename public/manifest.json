@@ -1,7 +1,7 @@
 {
-    "name": "CSMCRI",
-    "short_name": "CSMCRI | ADSORPTION & MATERIAL RESEARCH GROUP",
-    "description": "we focus on the development of new materials with improved adsorption properties for gas separation and catalyst applications.",
+    "name": "CSMCRI | ADSORPTION & MATERIAL RESEARCH GROUP",
+    "short_name": "CSMCRI",
+    "description": "We focus on the development of new materials with improved adsorption properties for gas separation and catalyst applications.",
     "start_url": "/",
     "display": "standalone",
     "theme_color": "#ffffff",
